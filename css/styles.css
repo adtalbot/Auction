@@ -1,0 +1,11 @@
+body {
+  background: url('https://ununsplash.imgix.net/reserve/LJIZlzHgQ7WPSh5KVTCB_Typewriter.jpg?dpr=1.5&fit=crop&fm=jpg&h=1075&q=75&w=725') no-repeat center;
+  background-size: cover;
+  font-family: 'Quicksand', sans-serif;
+  color: white;
+}
+
+h1 {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
