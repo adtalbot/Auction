@@ -7,5 +7,23 @@ body {
 
 h1 {
   color: white;
-  text-shadow: 2px 2px 4px #000000;
+  text-shadow: 2px 2px 4px #4c4c4c;
+}
+
+.paragraph {
+  color: white;
+  text-shadow: 2px 2px 4px #4c4c4c;
+}
+
+a:link {
+  text-decoration: none;
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+.circular {
+  border-radius: 50%;
 }
